@@ -10,13 +10,13 @@ Run `pip install requests beautifulsoup4` to make sure you have all the requirem
 ## Usage
 
 
-### get_followers(username, delay = 1):
+### get_followers(username, delay = 1)
 
 Gets followers of username
 Inputs:Username, delay(optional, in seconds)
 Outputs:list of username's followers
 
-### get_following(username, delay = 1):
+### get_following(username, delay = 1)
 
 Gets list of who username is following
 Inputs:Username, delay(optional, in seconds)
